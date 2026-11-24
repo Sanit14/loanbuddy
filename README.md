@@ -2,7 +2,7 @@ LoanBuddy 🤝
 
 A fair, explainable personal loan app — Ethical AI mini project BCA (Honours), MIT ADT University · Ethical AI, Responsible Computing and Data Privacy
 
-Live demo: add your Streamlit link here
+Live demo: https://loanbuddyy.streamlit.app/
 
 The problem
 
